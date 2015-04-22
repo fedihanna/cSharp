@@ -1,0 +1,17 @@
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\bin\Debug\Chat_2.exe.config
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\bin\Debug\Chat_2.exe
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\bin\Debug\Chat_2.pdb
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\bin\Debug\ChatLib.dll
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\bin\Debug\Logger.dll
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\bin\Debug\ChatLib.pdb
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\bin\Debug\Logger.pdb
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\obj\Debug\Chat_2.csprojResolveAssemblyReference.cache
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\obj\Debug\Chat_2.Form1.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\obj\Debug\Chat_2.Properties.Resources.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\obj\Debug\Chat_2.csproj.GenerateResource.Cache
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\obj\Debug\Chat_2.exe
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chat_2\Chat_2\obj\Debug\Chat_2.pdb
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Assingment_4\Chat_2\Chat_2\obj\Debug\Chat_2.csprojResolveAssemblyReference.cache
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Assingment_4\Chat_2\Chat_2\obj\Debug\Chat_2.Form1.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Assingment_4\Chat_2\Chat_2\obj\Debug\Chat_2.Properties.Resources.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Assingment_4\Chat_2\Chat_2\obj\Debug\Chat_2.csproj.GenerateResource.Cache

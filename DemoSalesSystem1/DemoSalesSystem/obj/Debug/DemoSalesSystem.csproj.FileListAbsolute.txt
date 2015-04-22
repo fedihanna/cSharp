@@ -1,0 +1,14 @@
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\bin\Debug\Database_log.ldf
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\bin\Debug\Database.mdf
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\bin\Debug\DemoSalesSystem.dll.config
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\bin\Debug\DemoSalesSystem.dll
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\bin\Debug\DemoSalesSystem.pdb
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.CatalogForm.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.Form1.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.OrderForm.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.ProductForm.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.Properties.Resources.resources
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.csproj.GenerateResource.Cache
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.dll
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.pdb
+E:\IT COURSE 2015-16 (PART 4)\PROG 2500 Andrew Mooney\DemoSalesSystem1\DemoSalesSystem\obj\Debug\DemoSalesSystem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chats\Chats\bin\Debug\Chats.exe.config
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chats\Chats\bin\Debug\Chats.exe
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chats\Chats\bin\Debug\Chats.pdb
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chats\Chats\obj\Debug\Chats.exe
+E:\IT COURSE 2015-16 (PART 4)\PROG 2200 Michael Caines\Chats\Chats\obj\Debug\Chats.pdb

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="61c64921c7a2490b9a9f5ef63a696443" Name="Diagram1" >
+        <EntityTypeShape EntityType="SaleSystemModel.Contact" Width="1.5" PointX="2.625" PointY="3.5" />
+        <EntityTypeShape EntityType="SaleSystemModel.Order" Width="1.5" PointX="4.875" PointY="3.25" />
+        <EntityTypeShape EntityType="SaleSystemModel.Catalog" Width="1.5" PointX="8.5" PointY="0.5" />
+        <EntityTypeShape EntityType="SaleSystemModel.OrderStatus" Width="1.5" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="SaleSystemModel.Status" Width="1.5" PointX="0.5" PointY="3.5" />
+        <EntityTypeShape EntityType="SaleSystemModel.Salutation" Width="1.5" PointX="0.5" PointY="5.625" />
+        <EntityTypeShape EntityType="SaleSystemModel.OrderDetails" Width="1.5" PointX="7.75" PointY="3.25" />
+        <EntityTypeShape EntityType="SaleSystemModel.Product" Width="1.5" PointX="4.75" PointY="0.5" />
+        <EntityTypeShape EntityType="SaleSystemModel.Company" Width="1.5" PointX="2.625" PointY="0.5" />
+        <EntityTypeShape EntityType="SaleSystemModel.CompanyContact" Width="1.5" PointX="7" PointY="5.75" />
+        <AssociationConnector Association="SaleSystemModel.ContactCompany" />
+        <AssociationConnector Association="SaleSystemModel.ContactCompanyContact" />
+        <AssociationConnector Association="SaleSystemModel.CompanyCompanyContact" />
+        <AssociationConnector Association="SaleSystemModel.CompanyOrder" />
+        <AssociationConnector Association="SaleSystemModel.CompanyContactOrder" />
+        <AssociationConnector Association="SaleSystemModel.OrderOrderDetails" />
+        <AssociationConnector Association="SaleSystemModel.ProductOrderDetails" />
+        <EntityTypeShape EntityType="SaleSystemModel.CatalogDetails" Width="1.5" PointX="6.625" PointY="0.5" />
+        <AssociationConnector Association="SaleSystemModel.CatalogCatalogDetails" />
+        <AssociationConnector Association="SaleSystemModel.ProductCatalogDetails" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

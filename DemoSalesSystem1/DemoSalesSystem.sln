@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSalesSystem", "DemoSalesSystem\DemoSalesSystem.csproj", "{10FDAEDE-FEEF-4EBD-BC35-3F7F885DF039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebSite\WebService.csproj", "{18C88D8C-4FE2-4C78-A797-640A3D2BD949}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ws", "http://localhost:9521", "{456DBDA1-9811-45FD-9CB2-8FE812063054}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_9521"
+		Debug.AspNetCompiler.PhysicalPath = "ws\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9521\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_9521"
+		Release.AspNetCompiler.PhysicalPath = "ws\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9521\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "ws\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{18C88D8C-4FE2-4C78-A797-640A3D2BD949} = {18C88D8C-4FE2-4C78-A797-640A3D2BD949}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://fedihanna.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DemoSalesSystem\\DemoSalesSystem.csproj
+		SccProjectName1 = DemoSalesSystem
+		SccLocalPath1 = DemoSalesSystem
+		SccProjectUniqueName2 = WebSite\\WebService.csproj
+		SccProjectName2 = WebSite
+		SccLocalPath2 = WebSite
+		SccWebProject3 = true
+		SccProjectUniqueName3 = http://localhost:9521
+		SccProjectName3 = ws
+		SccLocalPath3 = ws
+		SccProjectEnlistmentChoice3 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10FDAEDE-FEEF-4EBD-BC35-3F7F885DF039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FDAEDE-FEEF-4EBD-BC35-3F7F885DF039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FDAEDE-FEEF-4EBD-BC35-3F7F885DF039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FDAEDE-FEEF-4EBD-BC35-3F7F885DF039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C88D8C-4FE2-4C78-A797-640A3D2BD949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C88D8C-4FE2-4C78-A797-640A3D2BD949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C88D8C-4FE2-4C78-A797-640A3D2BD949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C88D8C-4FE2-4C78-A797-640A3D2BD949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456DBDA1-9811-45FD-9CB2-8FE812063054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456DBDA1-9811-45FD-9CB2-8FE812063054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456DBDA1-9811-45FD-9CB2-8FE812063054}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{456DBDA1-9811-45FD-9CB2-8FE812063054}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
